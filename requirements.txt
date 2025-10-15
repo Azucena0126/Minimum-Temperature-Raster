@@ -2,9 +2,10 @@ geopandas
 rasterio
 rioxarray
 rasterstats
-shapely
-pyproj
-matplotlib
 pandas
 numpy
+matplotlib
 unidecode
+streamlit
+shapely
+pyproj
