@@ -9,3 +9,5 @@ unidecode
 streamlit
 shapely
 pyproj
+seaborn
+rioxarray 
