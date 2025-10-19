@@ -2,7 +2,8 @@
 Assignment 3 - Diplomado 2025
 This dashboard was based on the structure created by Rodrigo Grijalba.
 
-## Purpose. Use a minimum temperature (Tmin) GeoTIFF to extract zonal statistics (by department/province/district), analyze climate risks (frost/cold surges), and propose evidence-based public policies. Deliver a public Streamlit app at the end.
+## Purpose. 
+Use a minimum temperature (Tmin) GeoTIFF to extract zonal statistics (by department/province/district), analyze climate risks (frost/cold surges), and propose evidence-based public policies. Deliver a public Streamlit app at the end.
 
 # Running locally
 To run locally, it is advisable to first create a virtual environment
