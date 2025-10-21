@@ -11,3 +11,7 @@ shapely
 pyproj
 seaborn
 rioxarray 
+plotly
+scipy
+ipykernel
+nbformat
